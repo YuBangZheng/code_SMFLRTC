@@ -10,11 +10,11 @@ matlab code
                    
 ******************************************************************************
   1). Get Started
-
+  
   Run the following Demo_LRTC to run SMF-LRTC.
-
+  
   2). Details
-
+  
   More detail can be found in [1]
 
     [1] Y.-B. Zheng, T.-Z. Huang*, T.-Y. Ji, X.-L. Zhao*, T.-X. Jiang, and T.-H. Ma,
