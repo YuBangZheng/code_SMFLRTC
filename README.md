@@ -9,7 +9,6 @@ matlab code
                    Xi-Le Zhao, Tai-Xiang Jiang, and Tian-Hui Ma
                    
 ******************************************************************************
-  Note: The decompression password of the Zip file can be found in [1].
 ******************************************************************************
   1). Get Started
   
