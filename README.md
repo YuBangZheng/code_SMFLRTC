@@ -21,4 +21,7 @@ matlab code
     [1] Y.-B. Zheng, T.-Z. Huang*, T.-Y. Ji, X.-L. Zhao*, T.-X. Jiang, and T.-H. Ma,
         Low-rank tensor completion via smooth matrix factorization.
 ******************************************************************************
+
+  3). Please cite our paper if you use any part of our source code or data.
+
     
